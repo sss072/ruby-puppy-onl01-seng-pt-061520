@@ -16,5 +16,6 @@ class Dog
       puts element
     end
   end
+end
       
     
