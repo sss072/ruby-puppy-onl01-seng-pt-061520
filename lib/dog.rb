@@ -17,6 +17,9 @@ class Dog
       puts element
     end
   end
+  def self.clear_all 
+    @@all.clear 
+  end
 end
       
     
