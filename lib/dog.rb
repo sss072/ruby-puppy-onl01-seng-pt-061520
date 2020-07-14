@@ -9,6 +9,9 @@ class Dog
     @@all 
   end
   def self.print_all 
-    for i in @all 
+    @@all.each do |element|
+      puts element
+    end
+  end
       
     
