@@ -9,5 +9,6 @@ class Dog
     @@all 
   end
   def self.print_all 
-    for i in 
+    for i in @all 
+      
     
